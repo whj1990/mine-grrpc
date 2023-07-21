@@ -9,9 +9,9 @@ naCos:
   port: 8848
   context-path: "/nacos"
   log-level: debug
-  namespace: c1053630-5dff-4d44-b386-74809763f730
+  namespace: 7e013039-10f2-467c-aa95-8296042af601
   username: nacos
   password: nacos
-  group: LOCAL_GROUP
+  group: DEFAULT_GROUP
   cluster-name: DEFAULT
-  data-id: mine-grpc
+  data-id: stats-server

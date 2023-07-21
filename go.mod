@@ -12,7 +12,7 @@ require (
 
 require github.com/whj1990/app-mine v0.0.0-20230202065251-5db7d1384b41
 
-replace github.com/whj1990/go-core v0.0.0-20230608031844-958ef4c36f50 => /home/wwwroot/gowork/src/mine/go-core
+replace github.com/whj1990/go-core v0.0.0-20230608031844-958ef4c36f50 => /home/whj/wwwroot/gowork/src/mine/go-core
 
 require (
 	github.com/KyleBanks/depth v1.2.1 // indirect
